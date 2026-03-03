@@ -1,7 +1,7 @@
 {
   "name": "demoblaze",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository represent a Automation of a project in playwright using type script language",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
@@ -10,5 +10,8 @@
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.3.2"
+  },
+  "directories": {
+    "test": "tests"
   }
 }
